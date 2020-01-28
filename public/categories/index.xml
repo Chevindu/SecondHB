@@ -1,41 +1,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories - Second Hand Books</title>
-    <link>http://example.org/categories/</link>
+    <link>https://jolly-cori-dbddda.netlify.com/categories/</link>
     <description>Recent content in Categories on Second Hand Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Dec 2018 10:35:35 -0500</lastBuildDate>
     
-        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jolly-cori-dbddda.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Features</title>
-      <link>http://example.org/categories/features/</link>
+      <link>https://jolly-cori-dbddda.netlify.com/categories/features/</link>
       <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
       
-      <guid>http://example.org/categories/features/</guid>
+      <guid>https://jolly-cori-dbddda.netlify.com/categories/features/</guid>
       <description></description>
     </item><item>
       <title>Web</title>
-      <link>http://example.org/categories/web/</link>
+      <link>https://jolly-cori-dbddda.netlify.com/categories/web/</link>
       <pubDate>Wed, 02 May 2018 14:33:42 -0400</pubDate>
       
-      <guid>http://example.org/categories/web/</guid>
+      <guid>https://jolly-cori-dbddda.netlify.com/categories/web/</guid>
       <description></description>
     </item><item>
       <title>Development</title>
-      <link>http://example.org/categories/development/</link>
+      <link>https://jolly-cori-dbddda.netlify.com/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/development/</guid>
+      <guid>https://jolly-cori-dbddda.netlify.com/categories/development/</guid>
       <description></description>
     </item><item>
       <title>golang</title>
-      <link>http://example.org/categories/golang/</link>
+      <link>https://jolly-cori-dbddda.netlify.com/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/golang/</guid>
+      <guid>https://jolly-cori-dbddda.netlify.com/categories/golang/</guid>
       <description></description>
     </item>
   </channel>

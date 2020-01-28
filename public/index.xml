@@ -1,20 +1,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>📖 - Second Hand Books</title>
-    <link>http://example.org/</link>
+    <link>https://jolly-cori-dbddda.netlify.com/</link>
     <description>Recent content in 📖 on Second Hand Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jan 2020 09:46:15 -0400</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jolly-cori-dbddda.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Books</title>
+      <link>https://jolly-cori-dbddda.netlify.com/books/</link>
+      <pubDate>Tue, 28 Jan 2020 15:36:47 +0530</pubDate>
+      
+      <guid>https://jolly-cori-dbddda.netlify.com/books/</guid>
+      <description></description>
+    </item><item>
       <title>Posts</title>
-      <link>http://example.org/post/</link>
+      <link>https://jolly-cori-dbddda.netlify.com/post/</link>
       <pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate>
       
-      <guid>http://example.org/post/</guid>
+      <guid>https://jolly-cori-dbddda.netlify.com/post/</guid>
       <description></description>
     </item>
   </channel>

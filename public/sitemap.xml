@@ -3,112 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/books/</loc>
+    <lastmod>2020-01-28T15:36:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jolly-cori-dbddda.netlify.com/books/injustice-vol-1/</loc>
+    <lastmod>2020-01-28T15:36:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jolly-cori-dbddda.netlify.com/post/</loc>
     <lastmod>2020-01-28T13:59:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/watchmen-deluxe-edition/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/books/watchmen-deluxe-edition/</loc>
     <lastmod>2020-01-28T13:59:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/post/watchmen-deluxe-edition/</loc>
+    <lastmod>2020-01-28T13:59:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jolly-cori-dbddda.netlify.com/</loc>
     <lastmod>2020-01-25T09:46:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/aether-features/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/post/aether-features/</loc>
     <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/categories/</loc>
     <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/features/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/categories/features/</loc>
     <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/aether-theme/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/post/aether-theme/</loc>
     <lastmod>2018-05-02T14:33:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/web/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/categories/web/</loc>
     <lastmod>2018-05-02T14:33:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/creating-a-new-theme/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/goisforlovers/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/development/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/development/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/hugoisforlovers/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/go/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/golang/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/templates/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/themes/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/migrate-from-jekyll/</loc>
+    <loc>https://jolly-cori-dbddda.netlify.com/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
