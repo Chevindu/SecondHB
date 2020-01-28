@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Second Hand Books"
+theme = "aether"
+
+[params]
+brand = "2HB"
+description = "The biggest collection of used books in Sri Lanka"
+bgimg = "img/431.jpg"
