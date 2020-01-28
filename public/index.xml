@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📖 - Second Hand Books</title>
+    <link>http://example.org/</link>
+    <description>Recent content in 📖 on Second Hand Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2020 09:46:15 -0400</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>http://example.org/post/</link>
+      <pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate>
+      
+      <guid>http://example.org/post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

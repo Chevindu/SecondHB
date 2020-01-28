@@ -14,7 +14,11 @@
     grid-template-columns: 1fr;
 }
 
-@media (min-width: 500px) {
+.list-header-title {
+    font-size: 1.5em;
+}
+
+@media (min-width: 40.063em) {
     .content {
         margin: 3rem 1rem;
         max-width: 52rem;
@@ -23,6 +27,9 @@
     }
     .hero-grid {
         grid-template-columns: 1fr 1fr;
+    }
+    .list-header-title {
+        font-size: 3em;
     }
 }
 
