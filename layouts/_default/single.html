@@ -22,11 +22,11 @@
                     <img src="{{ $featured.Permalink }}" {{ with .Params.description -}} alt="{{ . }}" {{- end }}>
                 </picture>
                 {{ end }}
-                <ul>
-                    <li>Author: </li>
-                    <li>Pages: </li>
-                    <li>ISBN10: </li>
-                </ul>
+                <div>
+                    <p>Author: </p>
+                    <p>Pages: </p>
+                    <p>ISBN10: </p>
+                </div>
             </section>
             {{ .Content }}
         </article>
