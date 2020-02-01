@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6fd914e3-ce6f-4e9c-9039-1b48a7d11bb3/deploy-status)](https://app.netlify.com/sites/secondhb/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/400411aa-dbb6-4284-88ab-55398780c6ea/deploy-status)](https://app.netlify.com/sites/secondhb/deploys)
 
 # Second Hand Books
 
