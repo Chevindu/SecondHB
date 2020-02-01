@@ -8,6 +8,7 @@
       <header class="list-header">
         {{ with .Description }}<p class="list-header-subtext">{{ . }}</p>{{ end }}
         {{ with .Title }}<h1 class="list-header-title">{{ . }}</h1>{{ end }}
+        {{ block "main" . }}{{ end }}
       </header>
       {{- end }}
       {{ with .Content -}}
@@ -31,5 +32,6 @@
     </nav>
     {{- end }}
     {{ partial "scripts.html" . }}
+    {{ block "footerfiles" . }}{{ end }}
   </body>
 </html>

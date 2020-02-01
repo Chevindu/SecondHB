@@ -6,3 +6,6 @@ theme = "aether"
 [params]
     brand = "2HB"
     description = "The biggest collection of used books in Sri Lanka"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
