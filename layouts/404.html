@@ -5,8 +5,9 @@
         {{ partial "nav-bar.html" . }}
         <main class="content">
             <div class="not-found-wrapper">
-                <h1>Aw, snap.</h1>
                 <p class="not-found-404">404</p>
+                <h1>Aw, snap.</h1>
+                <p>This can't be the page you were looking for.</p>
                 <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" href="{{ .Site.BaseURL }}" class="card not-found-link">Go Home</a>
             </div>
         </main>
