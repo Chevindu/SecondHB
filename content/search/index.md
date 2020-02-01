@@ -2,6 +2,8 @@
 title: "Search Results"
 sitemap:
   priority : 0.1
+displayInMenu: true
+displayInList: false
 layout: "search"
 ---
 

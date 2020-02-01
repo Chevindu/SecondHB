@@ -42,3 +42,17 @@
         grid-template-columns: 1fr 2fr;
     }
 }
+
+.not-found-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.not-found-404 {
+    font-size: 5rem;
+}
+.not-found-link {
+    background-color: bisque;
+    padding: .5em;
+    border-radius: .2em;
+}

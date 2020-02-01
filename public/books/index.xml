@@ -1,27 +1,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books - Second Hand Books</title>
-    <link>https://secondhb.netlify.com/books/</link>
+    <link>https://secondhandbooks.onrender.com/books/</link>
     <description>Recent content in Books on Second Hand Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jan 2020 15:36:47 +0530</lastBuildDate>
     
-        <atom:link href="https://secondhb.netlify.com/books/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://secondhandbooks.onrender.com/books/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Injustice Vol 1</title>
-      <link>https://secondhb.netlify.com/books/injustice-vol-1/</link>
+      <link>https://secondhandbooks.onrender.com/books/injustice-vol-1/</link>
       <pubDate>Tue, 28 Jan 2020 15:36:47 +0530</pubDate>
       
-      <guid>https://secondhb.netlify.com/books/injustice-vol-1/</guid>
+      <guid>https://secondhandbooks.onrender.com/books/injustice-vol-1/</guid>
       <description>Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here.</description>
     </item><item>
       <title>Watchmen Deluxe Edition</title>
-      <link>https://secondhb.netlify.com/books/watchmen-deluxe-edition/</link>
+      <link>https://secondhandbooks.onrender.com/books/watchmen-deluxe-edition/</link>
       <pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate>
       
-      <guid>https://secondhb.netlify.com/books/watchmen-deluxe-edition/</guid>
+      <guid>https://secondhandbooks.onrender.com/books/watchmen-deluxe-edition/</guid>
       <description>Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here.</description>
     </item>
   </channel>

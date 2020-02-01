@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" dir="ltr">
+    {{ partial "head.html" . }}
+    <body class="single-body">
+        {{ partial "nav-bar.html" . }}
+        <main class="content">
+            <div class="not-found-wrapper">
+                <h1>Aw, snap.</h1>
+                <p class="not-found-404">404</p>
+                <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" href="{{ .Site.BaseURL }}" class="card not-found-link">Go Home</a>
+            </div>
+        </main>
+    </body>
+    {{ partial "scripts.html" . }}
+</html>
