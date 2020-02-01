@@ -10,8 +10,6 @@
         {{ with .Title }}<h1 class="list-header-title">{{ . }}</h1>{{ end }}
       </header>
       {{- end }}
-      {{ block "main" . }}
-      {{ end }}
       {{ with .Content -}}
       <section class="list-header-content">
         {{ . }}
