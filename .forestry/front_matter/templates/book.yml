@@ -27,6 +27,8 @@ fields:
   - type: text
     name: name
     label: name
+    default: featuredImage
   - type: file
     name: src
     label: src
+    default: "/uploads/2hb.svg"
