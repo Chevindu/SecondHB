@@ -9,6 +9,8 @@ turns against hero. As Superman's iron grip on the world tightens, at the edge
 of the galaxy, anothe grave threat approaches...
 Collects Injustice: Gods Among Us Year 2 #1-5."
 displayInList: true
+categories:
+    - Paperback
 tags: 
     - DC
     - Comics
