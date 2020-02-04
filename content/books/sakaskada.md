@@ -7,6 +7,6 @@ tags = ["language", "sinhala"]
 title = "Sakaskada"
 [[resources]]
 name = "featuredImage"
-src = "/uploads/sakaskada.jpg"
+src = "/uploads/hathpana.jpg"
 
 +++
