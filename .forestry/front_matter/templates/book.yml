@@ -32,3 +32,5 @@ fields:
     name: src
     label: src
     default: "/uploads/2hb.svg"
+pages:
+- content/books/sakaskada.md
