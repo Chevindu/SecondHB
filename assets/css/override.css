@@ -28,6 +28,11 @@
     .hero-grid {
         grid-template-columns: 1fr 1fr;
     }
+    .post-figure {
+        position: sticky;
+        align-self: start;
+        top: 2rem;
+    }
     .list-header-title {
         font-size: 3em;
     }
