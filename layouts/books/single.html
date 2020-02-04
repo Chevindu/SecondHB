@@ -23,12 +23,13 @@
                 </picture>
                 {{ end }}
                 <div>
-                    <p>Author names: </p>
-                    <p>Pages: </p>
-                    <p>ISBN10: </p>
+                    <p><strong>Author:</strong> </p>
+                    <p><strong>Pages:</strong> </p>
+                    <p><strong>ISBN10:</strong> </p>
+                    <p><strong>Description:</strong> {{ .Params.description }}</p>
                 </div>
             </section>
-            {{ .Content }}
+            
         </article>
         {{ template "_internal/disqus.html" . }}
     </main>

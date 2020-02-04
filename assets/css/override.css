@@ -1,5 +1,4 @@
-.post-figure,
-.post-figure > img {
+.post-figure, .post-figure>img {
     margin: 0;
 }
 
@@ -50,12 +49,27 @@
     justify-content: center;
     height: 50vh;
 }
+
 .not-found-404 {
     margin: 0;
     font-size: 5rem;
 }
+
 .not-found-link {
     background-color: bisque;
     padding: .5em;
     border-radius: .2em;
+}
+
+.search-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-box {
+    width: 80%;
+    text-align: center;
+    height: 2.5rem;
 }
