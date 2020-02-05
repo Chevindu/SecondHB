@@ -61,7 +61,7 @@
 }
 
 .not-found-link {
-    background-color: bisque;
+    background-color: #ecedef;
     padding: .5em;
     border-radius: .2em;
 }
@@ -77,4 +77,19 @@
     width: 80%;
     text-align: center;
     height: 2.5rem;
+}
+
+.authors {
+    list-style: none;
+    display: inline;
+    padding: 0;
+}
+.authors li {
+    display: inline;
+}
+.authors li::after {
+    content: ", ";
+}
+.authors li:last-child::after {
+    content: "";
 }

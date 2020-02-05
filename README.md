@@ -5,9 +5,10 @@
 This Hugo site is based off the theme of [AETHER](https://github.com/josephhutch/aether) (MIT © Joe Hutchinson). I have done few customizing tweaks to fit the use case better, but the templating credit goes to Joe.
 
 # Todo
-- Add author taxonomy
-- Search function
-- Change home layout
+- ~~Add author taxonomy~~
+- ~~Search function~~
+- ~~Conditional loading of meta data~~
+- Customize home layout and author pages
 
 # License
 

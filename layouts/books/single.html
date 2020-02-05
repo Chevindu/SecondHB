@@ -23,13 +23,22 @@
                 </picture>
                 {{ end }}
                 <div>
-                    <p><strong>Author:</strong> </p>
-                    <p><strong>Pages:</strong> </p>
-                    <p><strong>ISBN10:</strong> </p>
+                        {{ $taxo := "authors" }}
+                        <strong>Author{{ if gt (len $taxo) 1 }}s{{ end }}:</strong>
+                        <ul class="{{ $taxo }}" id="{{ $taxo }}">
+                            {{ range .Param $taxo }}
+                                {{ $name := . }}
+                                {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) }}
+                                    <li><a href="{{ .Permalink }}">{{ $name }}</a></li>
+                                {{ end }}
+                            {{ end }}
+                        </ul>
+                    <p>{{ if isset .Params "pages" }}<strong>Pages: </strong>{{ .Params.pages }}{{ end }}</p>
+                    <p>{{ if isset .Params "isbn" }}<strong>ISBN10: </strong>{{ .Params.isbn }}{{ end }}</p>
                     <p><strong>Description:</strong> {{ .Params.description }}</p>
                 </div>
             </section>
-            
+
         </article>
         {{ template "_internal/disqus.html" . }}
     </main>
