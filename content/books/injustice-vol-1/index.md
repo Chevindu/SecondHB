@@ -9,13 +9,15 @@ turns against hero. As Superman's iron grip on the world tightens, at the edge
 of the galaxy, anothe grave threat approaches...
 Collects Injustice: Gods Among Us Year 2 #1-5."
 displayInList: true
+pages: 144
+isbn: 9781401253400
 authors:
     - Tom Taylor
+    - Bruno Redondo
 categories:
     - Paperback
 tags: 
     - DC
-    - Comics
 resources:
 - name: featuredImage
   src: "injustice.jpg"

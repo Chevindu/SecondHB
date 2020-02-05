@@ -10,10 +10,13 @@ head, the unlikely group of reunited heroes - Rorschach, Nite Owl, Silk
 Spectre, Dr. Manhattan and Ozymandias - have to test the limits of their
 convictions and ask themselves where the true line is between good and evil."
 displayInList: true
+pages: 448
+isbn: 9781401238964
+authors:
+    - Alan Moore
+    - Dave Gibbons
 tags:
     - Vertigo
-    - Moore
-    - Gibbons
 resources:
 - name: featuredImage
   src: "watchmen.jpg"

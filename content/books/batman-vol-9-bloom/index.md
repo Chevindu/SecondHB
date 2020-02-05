@@ -11,6 +11,11 @@ once more, can the combined skills of two Batmen defeat Mr. Bloom and his
 minions? The penultimate chapter to Scott Snyder and Greg Capullo's epic
 #1 NEW YORK TIMES bestselling series is here in BATMAN VOL. 9. Now in paperback,
 this graphic novel collects issues #47-50."
+authors:
+    - Scott Snyder
+    - Greg Capullo
+pages: 200
+isbn: 9781401269227
 displayInList: true
 tags:
     - Batman
