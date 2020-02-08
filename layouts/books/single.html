@@ -12,17 +12,13 @@
                         datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time></p>{{ end }}
             </header>
             <section class="hero-grid">
-                {{ with .Resources.GetMatch "featuredImage" }}
+                {{ if .Params.coverImage }}
                 <picture class="post-figure">
-                    {{ with $.Resources.GetMatch (replace (.Title) (path.Ext (.Title)) ".webp") -}}
-                    <source srcset="{{ .Permalink }}" type="image/webp">
-                    {{- end }}
-                    {{ $featured := .Resize "800x Lanczos" }}
-                    <source srcset="{{ $featured.Permalink }}">
-                    <img src="{{ $featured.Permalink }}" {{ with .Params.description -}} alt="{{ . }}" {{- end }}>
+                    <source srcset="{{ .Params.coverImage | absURL }}">
+                    <img src="{{ .Params.coverImage | absURL }}" {{ with .Params.imgdesc -}} alt="{{ . }}" {{- end }}>
                 </picture>
                 {{ end }}
-                <div>
+                <div class="book-data">
                         {{ $taxo := "authors" }}
                         <strong>Author{{ if gt (len $taxo) 1 }}s{{ end }}:</strong>
                         <ul class="{{ $taxo }}" id="{{ $taxo }}">

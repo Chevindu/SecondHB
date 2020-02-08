@@ -10,6 +10,7 @@ head, the unlikely group of reunited heroes - Rorschach, Nite Owl, Silk
 Spectre, Dr. Manhattan and Ozymandias - have to test the limits of their
 convictions and ask themselves where the true line is between good and evil."
 displayInList: true
+coverImage: "img/watchmen.jpg"
 pages: 448
 isbn: 9781401238964
 authors:

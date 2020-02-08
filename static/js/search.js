@@ -20,13 +20,15 @@ var searchFn = function () {
         for (var i = 0; i < results.length && i < limit; i += 1) {
             var result = results[i].item;
             var openAnchor = "<a href=\"" + result.permalink + "\" " +
-                "alt=\"" + result.showTitle + "\">";
-            var resultPane = "<div class=\"card\">" +
-                "<div class=\"card-body\">" +
-                "<div class=\"card-title\">" +
-                openAnchor + "<img src=\"" + result.image + "\" alt=\"" + result.showTitle + "\" class=\"rounded w-100\"></a></div>" +
-                ("<div class=\"card-text\"><small>" + result.showDescription + "</small></div>") +
-                "</div></div>";
+                "alt=\"" + result.showTitle + "\">" + result.showTitle + "</a>";
+            var resultPane = "<div class=\"search-card card\">" +
+                "<div class=\"search-card-title card-title\">" +
+                openAnchor +
+                "</div>" +
+                ("<div class=\"search-card-body card-body\">" +
+                "<img src=\"" + result.image + "\" alt=\"" + result.showTitle + "\" class=\"search-card-image\">" +
+                "<small>" + result.showDescription + "</small></div>") +
+                "</div>";
             $("#results").append(resultPane);
         }
     };

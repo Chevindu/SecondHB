@@ -1,14 +1,10 @@
 <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
   href="{{ .Permalink }}" class="card blog-card" rel="bookmark" >
-  {{ with .Resources.GetMatch "featuredImage" }}
+  {{ if .Params.coverImage }}
   <div class="card-img-container">
     <picture>
-      {{ with $.Resources.GetMatch (replace (.Title) (path.Ext (.Title)) ".webp") -}}
-      <source srcset="{{ .Permalink }}" type="image/webp">
-      {{- end }}
-      {{ $thumbnail := .Fit "400x300 Lanczos" }}
-      <source srcset="{{ $thumbnail.Permalink }}">
-      <img src="{{ $thumbnail.Permalink }}" class="card-img" {{ with .Params.description -}} alt="{{ . }}" {{- end }}>
+      <source srcset="{{ .Params.coverImage | absURL }}">
+      <img src="{{ .Params.coverImage | absURL }}" class="card-img" {{ with .Params.imgdesc -}} alt="{{ . }}" {{- end }}>
     </picture>
   </div>
   {{- end }}
