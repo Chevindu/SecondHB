@@ -19,16 +19,15 @@ var searchFn = function () {
         results.sort(function (a, b) { return b.weight - a.weight; });
         for (var i = 0; i < results.length && i < limit; i += 1) {
             var result = results[i].item;
-            var openAnchor = "<a href=\"" + result.permalink + "\" " +
-                "alt=\"" + result.showTitle + "\">" + result.showTitle + "</a>";
-            var resultPane = "<div class=\"search-card card\">" +
-                "<div class=\"search-card-title card-title\">" +
-                openAnchor +
-                "</div>" +
-                ("<div class=\"search-card-body card-body\">" +
-                "<img src=\"" + result.image + "\" alt=\"" + result.showTitle + "\" class=\"search-card-image\">" +
-                "<small>" + result.showDescription + "</small></div>") +
-                "</div>";
+            var resultPane = "<a class=\"search-card\" href=\"" + result.permalink + "\">" +
+                    "<div class=\"search-card card\">" +
+                        "<div class=\"search-card-title card-title\">" + result.showTitle + "</div>" +
+                        "<div class=\"search-card-body card-body\">" +
+                            "<img src=\"" + result.image + "\" alt=\"" + result.showTitle + "\" class=\"search-card-image\">" +
+                            "<small>" + result.showDescription + "</small>" + 
+                        "</div>" +
+                    "</div>";
+                "</a>"
             $("#results").append(resultPane);
         }
     };

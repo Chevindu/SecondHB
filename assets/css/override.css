@@ -88,6 +88,11 @@
 
 .search-card-title {
     padding: 1rem 0 0 1rem;
+    font-weight: 800;
+}
+
+.search-card {
+    text-decoration: none;
 }
 
 .authors {
