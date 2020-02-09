@@ -19,7 +19,7 @@ var searchFn = function () {
         results.sort(function (a, b) { return b.weight - a.weight; });
         for (var i = 0; i < results.length && i < limit; i += 1) {
             var result = results[i].item;
-            var resultPane = "<a class=\"search-card\" href=\"" + result.permalink + "\">" +
+            var resultPane = "<a ontouchstart=\"cardPressed.call(this)\" ontouchend=\"cardReleased.call(this)\" ontouchmove=\"cardReleased.call(this)\" class=\"search-card\" href=\"" + result.permalink + "\">" +
                     "<div class=\"search-card card\">" +
                         "<div class=\"search-card-title card-title\">" + result.showTitle + "</div>" +
                         "<div class=\"search-card-body card-body\">" +
