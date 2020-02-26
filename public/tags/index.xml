@@ -1,1 +1,56 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags - Second Hand Books</title><link>https://secondhandbooks.onrender.com/tags/</link><description>Recent content in Tags on Second Hand Books</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://secondhandbooks.onrender.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>development</title><link>https://secondhandbooks.onrender.com/tags/development/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://secondhandbooks.onrender.com/tags/development/</guid><description/></item><item><title>go</title><link>https://secondhandbooks.onrender.com/tags/go/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://secondhandbooks.onrender.com/tags/go/</guid><description/></item><item><title>golang</title><link>https://secondhandbooks.onrender.com/tags/golang/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://secondhandbooks.onrender.com/tags/golang/</guid><description/></item><item><title>hugo</title><link>https://secondhandbooks.onrender.com/tags/hugo/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://secondhandbooks.onrender.com/tags/hugo/</guid><description/></item><item><title>templates</title><link>https://secondhandbooks.onrender.com/tags/templates/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://secondhandbooks.onrender.com/tags/templates/</guid><description/></item><item><title>themes</title><link>https://secondhandbooks.onrender.com/tags/themes/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://secondhandbooks.onrender.com/tags/themes/</guid><description/></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags - Second Hand Books</title>
+    <link>https://secondhb.netlify.com/tags/</link>
+    <description>Recent content in Tags on Second Hand Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Feb 2020 19:08:56 +0530</lastBuildDate>
+    
+        <atom:link href="https://secondhb.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Batman</title>
+      <link>https://secondhb.netlify.com/tags/batman/</link>
+      <pubDate>Tue, 04 Feb 2020 19:08:56 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/tags/batman/</guid>
+      <description></description>
+    </item><item>
+      <title>DC</title>
+      <link>https://secondhb.netlify.com/tags/dc/</link>
+      <pubDate>Tue, 04 Feb 2020 19:08:56 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/tags/dc/</guid>
+      <description></description>
+    </item><item>
+      <title>New 52</title>
+      <link>https://secondhb.netlify.com/tags/new-52/</link>
+      <pubDate>Tue, 04 Feb 2020 19:08:56 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/tags/new-52/</guid>
+      <description></description>
+    </item><item>
+      <title>Capullo</title>
+      <link>https://secondhb.netlify.com/tags/capullo/</link>
+      <pubDate>Tue, 04 Feb 2020 19:05:03 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/tags/capullo/</guid>
+      <description></description>
+    </item><item>
+      <title>Snyder</title>
+      <link>https://secondhb.netlify.com/tags/snyder/</link>
+      <pubDate>Tue, 04 Feb 2020 19:05:03 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/tags/snyder/</guid>
+      <description></description>
+    </item><item>
+      <title>Vertigo</title>
+      <link>https://secondhb.netlify.com/tags/vertigo/</link>
+      <pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/tags/vertigo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

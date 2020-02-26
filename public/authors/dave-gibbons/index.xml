@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dave Gibbons - Second Hand Books</title>
+    <link>https://secondhb.netlify.com/authors/dave-gibbons/</link>
+    <description>Recent content in Dave Gibbons on Second Hand Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2020 13:59:40 +0530</lastBuildDate>
+    
+        <atom:link href="https://secondhb.netlify.com/authors/dave-gibbons/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Watchmen The Deluxe Edition</title>
+      <link>https://secondhb.netlify.com/books/watchmen-deluxe-edition/</link>
+      <pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/books/watchmen-deluxe-edition/</guid>
+      <description>In an alternate world where the mere presence of American superheroes changed history, the US won the Vietnam War, Nixon is still president, and the cold war is in full effect. Watchmen begins as a murder-mystery, but soon unfolds into a planet-altering conspiracy. As the resolution comes to a head, the unlikely group of reunited heroes - Rorschach, Nite Owl, Silk Spectre, Dr. Manhattan and Ozymandias - have to test the limits of their convictions and ask themselves where the true line is between good and evil.</description>
+    </item>
+  </channel>
+</rss>

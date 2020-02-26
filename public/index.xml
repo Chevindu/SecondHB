@@ -1,6 +1,21 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SecondHandBooks.lk - Second Hand Books</title><link>https://secondhandbooks.onrender.com/</link><description>Recent content in SecondHandBooks.lk on Second Hand Books</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2020 09:46:15 -0400</lastBuildDate><atom:link href="https://secondhandbooks.onrender.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Books</title><link>https://secondhandbooks.onrender.com/books/</link><pubDate>Tue, 28 Jan 2020 15:36:47 +0530</pubDate><guid>https://secondhandbooks.onrender.com/books/</guid><description/></item><item><title>Posts</title><link>https://secondhandbooks.onrender.com/post/</link><pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate><guid>https://secondhandbooks.onrender.com/post/</guid><description/></item><item><title>Search Results</title><link>https://secondhandbooks.onrender.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://secondhandbooks.onrender.com/search/</guid><description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SecondHandBooks.lk - Second Hand Books</title>
+    <link>https://secondhb.netlify.com/</link>
+    <description>Recent content in SecondHandBooks.lk on Second Hand Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2020 09:46:15 -0400</lastBuildDate>
+    
+        <atom:link href="https://secondhb.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Books</title>
+      <link>https://secondhb.netlify.com/books/</link>
+      <pubDate>Tue, 04 Feb 2020 19:08:56 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/books/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

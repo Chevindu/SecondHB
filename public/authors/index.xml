@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors - Second Hand Books</title>
+    <link>https://secondhb.netlify.com/authors/</link>
+    <description>Recent content in Authors on Second Hand Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Feb 2020 19:08:56 +0530</lastBuildDate>
+    
+        <atom:link href="https://secondhb.netlify.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Greg Capullo</title>
+      <link>https://secondhb.netlify.com/authors/greg-capullo/</link>
+      <pubDate>Tue, 04 Feb 2020 19:08:56 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/authors/greg-capullo/</guid>
+      <description></description>
+    </item><item>
+      <title>Scott Snyder</title>
+      <link>https://secondhb.netlify.com/authors/scott-snyder/</link>
+      <pubDate>Tue, 04 Feb 2020 19:08:56 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/authors/scott-snyder/</guid>
+      <description></description>
+    </item><item>
+      <title>Bruno Redondo</title>
+      <link>https://secondhb.netlify.com/authors/bruno-redondo/</link>
+      <pubDate>Tue, 28 Jan 2020 15:36:47 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/authors/bruno-redondo/</guid>
+      <description></description>
+    </item><item>
+      <title>Tom Taylor</title>
+      <link>https://secondhb.netlify.com/authors/tom-taylor/</link>
+      <pubDate>Tue, 28 Jan 2020 15:36:47 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/authors/tom-taylor/</guid>
+      <description></description>
+    </item><item>
+      <title>Alan Moore</title>
+      <link>https://secondhb.netlify.com/authors/alan-moore/</link>
+      <pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/authors/alan-moore/</guid>
+      <description></description>
+    </item><item>
+      <title>Dave Gibbons</title>
+      <link>https://secondhb.netlify.com/authors/dave-gibbons/</link>
+      <pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/authors/dave-gibbons/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

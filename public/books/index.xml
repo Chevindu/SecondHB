@@ -1,1 +1,42 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Books - Second Hand Books</title><link>https://secondhandbooks.onrender.com/books/</link><description>Recent content in Books on Second Hand Books</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 15:36:47 +0530</lastBuildDate><atom:link href="https://secondhandbooks.onrender.com/books/index.xml" rel="self" type="application/rss+xml"/><item><title>Injustice Vol 1</title><link>https://secondhandbooks.onrender.com/books/injustice-vol-1/</link><pubDate>Tue, 28 Jan 2020 15:36:47 +0530</pubDate><guid>https://secondhandbooks.onrender.com/books/injustice-vol-1/</guid><description>Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here.</description></item><item><title>Watchmen Deluxe Edition</title><link>https://secondhandbooks.onrender.com/books/watchmen-deluxe-edition/</link><pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate><guid>https://secondhandbooks.onrender.com/books/watchmen-deluxe-edition/</guid><description>Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here. Content goes here.</description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books - Second Hand Books</title>
+    <link>https://secondhb.netlify.com/books/</link>
+    <description>Recent content in Books on Second Hand Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Feb 2020 19:08:56 +0530</lastBuildDate>
+    
+        <atom:link href="https://secondhb.netlify.com/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Batman Vol 8 Superheavy</title>
+      <link>https://secondhb.netlify.com/books/batman-vol-8-superheavy/</link>
+      <pubDate>Tue, 04 Feb 2020 19:08:56 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/books/batman-vol-8-superheavy/</guid>
+      <description>After his deadliest battle to date, Batman is bruised, battered and scarred. And forever changed. Now, on the streets of Gotham, in place of the cape and cowl roams an 8-foot mechanized suit of armor. More powerful than ever before, Batman&#39;s pursuit of justice has never been more swift or efficient. But who is the new Dark Knight? And why is he...or she...here? Now in paperback, BATMAN VOL. 8: SUPERHEAVY presents the most shocking chapter in Scott Snyder and Greg Capullo&#39;s #1 New York Times best-selling series, as comics&#39; greatest creative team throws the most unexpected twist in Batman&#39;s history. Collects BATMAN #41-46 and FREE COMIC BOOK DAY 2015: DC COMICS DIVERGENCE #1.</description>
+    </item><item>
+      <title>Batman Vol 9 Bloom</title>
+      <link>https://secondhb.netlify.com/books/batman-vol-9-bloom/</link>
+      <pubDate>Tue, 04 Feb 2020 19:05:03 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/books/batman-vol-9-bloom/</guid>
+      <description>As the new Batman, former police commissioner Jim Gordon is in for the fight of his life against the bizarre threat of Mr. Bloom, who controls plant life in Gotham City! At the same time, an amnesiac Bruce Wayne has discovered the truth of his past as the Dark Knight -- now, he must descend into the Batcave and reclaim that painful legacy. With Bruce back in the cape and cowl once more, can the combined skills of two Batmen defeat Mr. Bloom and his minions? The penultimate chapter to Scott Snyder and Greg Capullo&#39;s epic #1 NEW YORK TIMES bestselling series is here in BATMAN VOL. 9. Now in paperback, this graphic novel collects issues #47-50.</description>
+    </item><item>
+      <title>Injustice Gods Among Us Year 2 Vol 1</title>
+      <link>https://secondhb.netlify.com/books/injustice-year-2-vol-1/</link>
+      <pubDate>Tue, 28 Jan 2020 15:36:47 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/books/injustice-year-2-vol-1/</guid>
+      <description>A New York Times Bestseller! The best-selling prequel to the hit video game picks up right where it left off! Year one is over - now, year two begins. The death of one of their own has divided Earth&#39;s protectors as hero turns against hero. As Superman&#39;s iron grip on the world tightens, at the edge of the galaxy, anothe grave threat approaches... Collects Injustice: Gods Among Us Year 2 #1-5.</description>
+    </item><item>
+      <title>Watchmen The Deluxe Edition</title>
+      <link>https://secondhb.netlify.com/books/watchmen-deluxe-edition/</link>
+      <pubDate>Tue, 28 Jan 2020 13:59:40 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/books/watchmen-deluxe-edition/</guid>
+      <description>In an alternate world where the mere presence of American superheroes changed history, the US won the Vietnam War, Nixon is still president, and the cold war is in full effect. Watchmen begins as a murder-mystery, but soon unfolds into a planet-altering conspiracy. As the resolution comes to a head, the unlikely group of reunited heroes - Rorschach, Nite Owl, Silk Spectre, Dr. Manhattan and Ozymandias - have to test the limits of their convictions and ask themselves where the true line is between good and evil.</description>
+    </item>
+  </channel>
+</rss>

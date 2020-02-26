@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Taylor - Second Hand Books</title>
+    <link>https://secondhb.netlify.com/authors/tom-taylor/</link>
+    <description>Recent content in Tom Taylor on Second Hand Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2020 15:36:47 +0530</lastBuildDate>
+    
+        <atom:link href="https://secondhb.netlify.com/authors/tom-taylor/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Injustice Gods Among Us Year 2 Vol 1</title>
+      <link>https://secondhb.netlify.com/books/injustice-year-2-vol-1/</link>
+      <pubDate>Tue, 28 Jan 2020 15:36:47 +0530</pubDate>
+      
+      <guid>https://secondhb.netlify.com/books/injustice-year-2-vol-1/</guid>
+      <description>A New York Times Bestseller! The best-selling prequel to the hit video game picks up right where it left off! Year one is over - now, year two begins. The death of one of their own has divided Earth&#39;s protectors as hero turns against hero. As Superman&#39;s iron grip on the world tightens, at the edge of the galaxy, anothe grave threat approaches... Collects Injustice: Gods Among Us Year 2 #1-5.</description>
+    </item>
+  </channel>
+</rss>
