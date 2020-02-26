@@ -19,3 +19,4 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Authors', name: 'authors', widget: 'list', default: ['Unknown'] }
       - { label: 'Cover Photo', name: 'coverImage', widget: 'image', default: 'img/2hb.svg' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
