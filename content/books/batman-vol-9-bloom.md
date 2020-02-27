@@ -1,5 +1,6 @@
 ---
 title: Batman Vol 9 Bloom
+slug: batman-bloom
 date: 2020-02-04T13:35:03.000Z
 description: >-
   As the new Batman, former police commissioner Jim Gordon is in for the fight
