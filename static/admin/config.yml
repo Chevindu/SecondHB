@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 site_url: https://secondhb.netlify.com
-logo_url: https://secondhb.netlify.com/static/img/2hb.svg
+logo_url: https://secondhb.netlify.com/static/mstile-310x310.png
 media_folder: static/uploads
 public_folder: /uploads
 collections:
@@ -15,8 +15,11 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Authors', name: 'authors', widget: 'list', default: ['Unknown'] }
-      - { label: 'Cover Photo', name: 'coverImage', widget: 'image', default: 'img/2hb.svg' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Categories', name: 'categories', widget: 'list', default: ['Paperback'] }
+      - { label: 'Cover Photo', name: 'coverImage', widget: 'image', default: '/mstile-310x310.png' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
